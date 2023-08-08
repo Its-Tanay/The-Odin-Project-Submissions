@@ -7,3 +7,21 @@
 [submodule "calculator"]
 	path = calculator
 	url = https://github.com/Its-Tanay/calculator
+[submodule "sign-up-form"]
+	path = sign-up-form
+	url = https://github.com/Its-Tanay/sign-up-form
+[submodule "admin-dashboard-template"]
+	path = admin-dashboard-template
+	url = https://github.com/Its-Tanay/admin-dashboard-template
+[submodule "library-app"]
+	path = library-app
+	url = https://github.com/Its-Tanay/library-app
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = https://github.com/Its-Tanay/tic-tac-toe
+[submodule "restaurant-webpage"]
+	path = restaurant-webpage
+	url = https://github.com/Its-Tanay/restaurant-webpage
+[submodule "weather-app"]
+	path = weather-app
+	url = https://github.com/Its-Tanay/weather-app
