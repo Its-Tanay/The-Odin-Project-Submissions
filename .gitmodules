@@ -1,0 +1,9 @@
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = https://github.com/Its-Tanay/rock-paper-scissors
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/Its-Tanay/etch-a-sketch
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/Its-Tanay/calculator
